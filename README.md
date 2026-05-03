@@ -16,3 +16,4 @@ thinking and writing.
 
 - [Project](./ch2_guessing_game)
 - [Book](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html)
+# rust_studies
