@@ -4,7 +4,7 @@ This is a repository for my notes and code around Rust. I will be primarily usin
 the great official [The Rust Programming Language](https://doc.rust-lang.org/book/)
 book. My final objective with this study is to have a functional Powder/Falling
 sand game.
-I will try to index below to what chapter each project refers to. Notes should
+I will try to index below what chapter each project refers to. Notes should
 also live inside each project directory if there is any. As my primary objective
 here is to learn the language and to do a funny project at the end of it, I will
 make use of AI only for guidance purposes, as I want to be the one doing the
