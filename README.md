@@ -16,3 +16,8 @@ thinking and writing.
 
 - [Project](./ch2_guessing_game)
 - [Book](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html)
+
+### Chapter 3: Programming a Guessing Game
+
+- [Project](./ch3_common_programming_concepts)
+- [Book](https://doc.rust-lang.org/book/ch03-00-common-programming-concepts.html)
